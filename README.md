@@ -55,7 +55,3 @@ This project is a scheduling application for a Hotel, designed to manage hotel r
 
 ## Cloud Deployment
 - A guide for deploying the application on cloud services like Azure is provided in the `/deploying-on-cloud` folder.
-
----
-
-This README emphasizes the application's functionalities and technologies used without referencing any tasks or institutions, making it professional and focused on the features of the software.
