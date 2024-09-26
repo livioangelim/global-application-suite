@@ -7,7 +7,7 @@ This project is a scheduling application for a Hotel, designed to manage hotel r
 
 ## Technologies Used
 - **Back-End**: Java, Spring Boot
-- **Front-End**: Angular
+- **Front-End**: Angular, TypeScript
 - **Localization**: Java Resource Bundles
 - **Time Zone Management**: Java Time API
 - **Containerization**: Docker
